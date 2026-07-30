@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Konstantin</h1>
+<h3 align="center">Frontend Developer 🦕</h3>
 
-<!--
-**Chazybvk/Chazybvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://chazybvk.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chazybvk&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chazybvk&layout=donut&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chazybvk&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chazybvk&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🌐 [Portfolio](https://github.com/Chazybvk/Portfolio) — my personal portfolio site
+- 🧮 [CalculatorJS](https://github.com/Chazybvk/CalculatorJS) — calculator built with vanilla JavaScript
+- 🎨 [Portfolio-Claret](https://github.com/Chazybvk/Portfolio-Claret) — portfolio template
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://chazybvk.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
+  </a>
+  <!-- Добавь свои ссылки:
+  <a href="ССЫЛКА_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="ССЫЛКА_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  -->
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chazybvk&style=flat-square&color=blue" alt="profile views"/>
+</p>
