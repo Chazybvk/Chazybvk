@@ -25,12 +25,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chazybvk&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chazybvk&layout=donut&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chazybvk&theme=tokyonight" alt="profile summary" width="82%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chazybvk&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chazybvk&theme=tokyonight" alt="top languages by repo" height="185"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chazybvk&theme=tokyonight" alt="top languages by commit" height="185"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chazybvk&theme=tokyonight" alt="stats" height="185"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chazybvk&theme=tokyonight&utcOffset=3" alt="productive time" height="185"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Chazybvk&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
@@ -53,9 +62,9 @@
   <a href="https://chazybvk.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
   </a>
-  <!-- Добавь свои ссылки:
-  <a href="ССЫЛКА_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="ССЫЛКА_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <!-- Add your links:
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   -->
 </p>
 
